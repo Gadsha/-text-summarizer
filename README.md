@@ -6,8 +6,5 @@
 * run `pip install -r requirements.txt`
 * run `streamlit run main.py`
 
-* ![Watch the test video](https://raw.githubusercontent.com/Gadsha/test-summarizer/main/testVideo/sample.jpg)](https://raw.githubusercontent.com/Gadsha/test-summarizer/main/testVideo/samplevideo.mp4)
-
-
 https://github.com/user-attachments/assets/94782923-739d-41b6-8e22-1067dbe5898b
 
