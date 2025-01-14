@@ -5,3 +5,5 @@
 * install [tensorflow](https://www.tensorflow.org/install/pip) or [PyTorch](https://pytorch.org/get-started/locally/)
 * run `pip install -r requirements.txt`
 * run `streamlit run main.py`
+
+* ![Watch the test video](https://raw.githubusercontent.com/Gadsha/test-summarizer/main/testVideo/sample.jpg)](https://raw.githubusercontent.com/Gadsha/test-summarizer/main/testVideo/samplevideo.mp4)
